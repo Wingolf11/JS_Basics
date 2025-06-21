@@ -4,7 +4,7 @@
 
 # Basic JavaScript Exercises
 
-This project demonstrates fundamental JavaScript concepts through a series of small, focused exercises. It is intended for beginners who want to understand how JavaScript interacts with the DOM and how basic logic works in the browser.
+This project demonstrates fundamental JavaScript concepts through a series of small, focused exercises. 
 
 ## 📚 Overview
 
